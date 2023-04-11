@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * free_grid - a function that returns a pointer to a 2 dimensional array of integers.
+ * free_grid - a function that returns a pointer to
+ * a 2 dimensional array of integers.
  * created by alloc_grid()
  * @grid: grid to free
  * @height: height of the grid
