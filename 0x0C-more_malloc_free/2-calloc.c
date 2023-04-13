@@ -40,7 +40,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	if (str == NULL)
 		return (NULL);
 
-	_memset(ptr, 0, nmemb * size);
+	_memset(str, 0, nmemb * size);
 
 	return (str);
 }
