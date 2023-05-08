@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * read_textfile - Reads file 
+ * read_textfile - Reads file
  * @filename: A pointer to file.
  * @letters: The number of letters
  *
